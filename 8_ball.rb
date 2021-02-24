@@ -4,10 +4,6 @@ greetings = [
   "Кто вопрошает, тот получит ответ:",
   "Здравствуй, смертный. Сегодня для тебя такой ответ:"
 ]
-puts greetings.sample
-puts
-
-sleep 2
 
 answers = [
   #Положительные
@@ -38,6 +34,11 @@ answers = [
   "Перспективы не очень хорошие",
   "Весьма сомнительно"
 ]
+
+puts greetings.sample
+puts
+
+sleep 2
 
 #выводим случайный элемент массива
 puts answers.sample
