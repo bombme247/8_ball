@@ -9,5 +9,10 @@
 ```
 $ ruby 8_ball.rb
 ```
+____
 ### Почитать подробнее на Википедии
 * https://ru.wikipedia.org/wiki/Magic_8_ball
+____
+**Автор** : @bombme247 (Nadia)
+
+Language: ![https://img.shields.io/badge/Ruby-3.0.0-red](https://img.shields.io/badge/Ruby-3.0.0-red)
