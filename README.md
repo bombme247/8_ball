@@ -15,4 +15,4 @@ ____
 ____
 **Автор** : @bombme247 (Nadia)
 
-Language: ![https://img.shields.io/badge/Ruby-3.0.0-red](https://img.shields.io/badge/Ruby-3.0.0-red)
+Язык: ![https://img.shields.io/badge/Ruby-3.0.0-red](https://img.shields.io/badge/Ruby-3.0.0-red)
